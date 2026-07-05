@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+smarttrip.db
+
+# Logs
+logs/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
